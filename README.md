@@ -1,8 +1,8 @@
 # parse_web_blocks: WIP
 
 ## Intro:
-	This is a small app which crawls and scrapes a webpage and parses the text from it in an structure manner. When extracting text it doesn't mixes up all the text in one blob and maintains the separation according to how the text appears on the webpage. Although completely functional, It is a work in progress and doesn't work too well on long webpages. 
-	Although the scripts are completely functional by themselves but the whole thing has been made such that it works as standalone app. MongoDB is not necessary for functioning of the scripts. 
+This is a small app which crawls and scrapes a webpage and parses the text from it in an structure manner. When extracting text it doesn't mixes up all the text in one blob and maintains the separation according to how the text appears on the webpage. Although completely functional, It is a work in progress and doesn't work too well on long webpages. 
+Although the scripts are completely functional by themselves but the whole thing has been made such that it works as standalone app. MongoDB is not necessary for functioning of the scripts. 
 
 
 ## Setup:
