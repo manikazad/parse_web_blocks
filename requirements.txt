@@ -12,7 +12,7 @@ biopython==1.73
 bleach==3.1.0
 bs4==0.0.1
 BTrees==4.5.1
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 configobj==5.0.6
